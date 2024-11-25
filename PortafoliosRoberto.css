@@ -196,7 +196,7 @@ button:hover, .btn:hover {
         justify-content: flex-start;
         align-items: center;
         padding-bottom: 5rem;
-        height: 120vh;
+        height: 100vh;
     }
 
     .hero-content {
